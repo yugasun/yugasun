@@ -6,7 +6,7 @@ Hi, I'm a Software Engineer, using JS, Node.js, TypeScript, Java, Vue, React, Ru
 
 **About me:**
 
-- 👨🏽‍💻 Now I'm working at `Futurefab.AI`.
+- 👨🏽‍💻 Now I'm a `Software Architect`  at `Futurefab.AI`.
 - 🤖 I'm also familiar with `LLM`.
 - 🐧 Worked on `Serverless` solution at Tencent!
 - 🌱 I'm also familiar with `Blockchain` Technology.
