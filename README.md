@@ -11,4 +11,4 @@ Hi, I'm a Software Engineer, using JS, Node.js, TypeScript, Java, Vue, React, Ru
 - 🐧 Worked on `Serverless` solution at `Tencent`!
 - 🌱 I'm also familiar with `Blockchain` Technology.
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: yuga.sun.bj@gmail.com
+- 📫 How to reach me: yugasun.ai@gmail.com
