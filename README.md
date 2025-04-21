@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yugasun&show_icons=true&hide_border=true&theme=vue-dark" />
 
-Hi, I'm a Software Engineer, using JS, Node.js, TypeScript, Java, Vue, React, Rust, Go, Solidity etc. I love learning new things and building interesting stuff. I'm also a Blockchain Enthusiast and a Blockchain Developer.
+Hi, I'm a Software Engineer, using Python, JS, TypeScript, Java, Vue, React, Rust, Go, Solidity etc. I love learning new things and building interesting stuff. I'm also a Blockchain Enthusiast and a Blockchain Developer.
 
 **About me:**
 
